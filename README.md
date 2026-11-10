@@ -19,19 +19,19 @@ Refer to BOM for the required parts
 # Screenshots
 ## 3D assembly (no electronics)
 No Module
-![alt text](Image-4.png)
+![alt text](Images/Image-4.png)
 Camera Module
-![alt text](Image-5.png)
+![alt text](Images/Image-5.png)
 ## Schematics
 ESP Connections
-![alt text](Image-1.png)
+![alt text](Images/Image-1.png)
 Main Bus
-![alt text](Image.png)
+![alt text](Images/Image.png)
 IMU circuit diagram
-![alt text](Image-2.png)
+![alt text](Images/Image-2.png)
 Controller Diagram
-![alt text](Image-6.png)
+![alt text](Images/Image-6.png)
 
 ## Renders (TBD after getting parts and measurements)
 ## Communications Diagram
-![alt text](Image-3.png)
+![alt text](Images/Image-3.png)
