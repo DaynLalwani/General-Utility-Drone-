@@ -1,0 +1,39 @@
+﻿IF USING MODULES,,
+Item,Price AED,Price USD
+ ESP 32-WROOM-32U WROVER    x     2,53.28,14.47826087
+BMP 390,16.83,4.573369565
+MPY 9250 / GY-9250,17.64,4.793478261
+"Brushless Motor , ESC and Prop Set of 4",168,45.65217391
+NEO M8N,50.18,13.63586957
+SX1278 Ra02 * 2,28.38,7.711956522
+Antenna For SX1278,7.8,2.119565217
+Switches for Controller,35,9.510869565
+Joystick for controller,17.1,4.64673913
+Slide Potentiometer for throttle,7.67,2.08423913
+LiPo battery (APPROX),170,46.19565217
+4 AA battery pack | Already owned,,0
+AA batteries * 6,,0
+JST-GH connectors,,0
+Wire,,0
+2 KG ASA,120,32.60869565
+,,
+APPROX Price,691.88,188.0108696
+,,
+,,
+IF SOLDERING TO PCB,,
+,,
+ ESP 32-WROOM-32U WROVER    x     2,,
+BMP 390 chip,,
+MPU 9250 Chip,,
+"Brushless Motor , ESC and Prop Set of 4",,
+NEO M8N,,
+Ra02  chip * 2,,
+Antenna For Ra02,,
+Switches for Controller,,
+Joystick for controller,,
+Slide Potentiometer for throttle,,
+LiPo battery (APPROX),,
+4 AA battery pack | Already owned,,
+AA batteries * 6,,
+Ceramic SMD Capacators,,
+SMD resistors,,
