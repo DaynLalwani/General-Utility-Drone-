@@ -1,39 +1,20 @@
-﻿IF USING MODULES,,
-Item,Price AED,Price USD
- ESP 32-WROOM-32U WROVER    x     2,53.28,14.47826087
-BMP 390,16.83,4.573369565
-MPY 9250 / GY-9250,17.64,4.793478261
-"Brushless Motor , ESC and Prop Set of 4",168,45.65217391
-NEO M8N,50.18,13.63586957
-SX1278 Ra02 * 2,28.38,7.711956522
-Antenna For SX1278,7.8,2.119565217
-Switches for Controller,35,9.510869565
-Joystick for controller,17.1,4.64673913
-Slide Potentiometer for throttle,7.67,2.08423913
-LiPo battery (APPROX),170,46.19565217
-4 AA battery pack | Already owned,,0
-AA batteries * 6,,0
-JST-GH connectors,,0
-Wire,,0
-2 KG ASA,120,32.60869565
-,,
-APPROX Price,691.88,188.0108696
-,,
-,,
-IF SOLDERING TO PCB,,
-,,
- ESP 32-WROOM-32U WROVER    x     2,,
-BMP 390 chip,,
-MPU 9250 Chip,,
-"Brushless Motor , ESC and Prop Set of 4",,
-NEO M8N,,
-Ra02  chip * 2,,
-Antenna For Ra02,,
-Switches for Controller,,
-Joystick for controller,,
-Slide Potentiometer for throttle,,
-LiPo battery (APPROX),,
-4 AA battery pack | Already owned,,
-AA batteries * 6,,
-Ceramic SMD Capacators,,
-SMD resistors,,
+Item,Price USD,Price AED,Link
+ ESP 32-WROOM-32U WROVER    set of 2,13.85869565,51,https://ar.aliexpress.com/item/1005007329234480.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+BMP 390,2.717391304,10,https://ar.aliexpress.com/item/1005007994081802.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+MPU 9250 / GY-9250,2.989130435,11,https://ar.aliexpress.com/item/1005006070866048.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+"Brushless Motor , ESC and Prop Set of 4",44.02173913,162,https://ar.aliexpress.com/item/1005007952524310.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+NEO M8N,13.58695652,50,https://ar.aliexpress.com/item/1005012814444103.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+SX1278 Ra02 * 2,3.804347826,14,https://ar.aliexpress.com/item/1005010084665335.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+Antenna For SX1278,1.902173913,7,https://ar.aliexpress.com/item/1005010084665335.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+Switches for Controller * 5,6.793478261,25,https://ar.aliexpress.com/item/1005010266584980.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+Joystick for controller,1.358695652,5,https://ar.aliexpress.com/item/1005005496037039.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+Slide Potentiometer for throttle,2.173913043,8,https://ar.aliexpress.com/item/1005004247227671.html?spm=a2g0o.cart.0.0.791338darzkuaf&mp=1&gatewayAdapt=glo2ara
+LiPo battery (APPROX),54.34782609,200,https://www.rccorner.ae/dupu-3300mah-3s-25c-lipo-battery
+4 AA battery pack | Already owned,5.434782609,20,
+AA batteries * 6,6.793478261,25,
+Wire,2.717391304,10,http://ar.aliexpress.com/item/1005010775682072.html?spm=a2g0o.cart.0.0.821738daqXQFjM&mp=1&gatewayAdapt=glo2ara
+1 KG ASA,28.5326087,105,https://www.amazon.ae/eSUN-ABS-Filament-Dimensional-Accuracy/dp/B07FQ1VKXX/ref=sr_1_4?sr=8-4
+Wire Stripper,5.706521739,21,https://ar.aliexpress.com/item/1005013330725010.html?spm=a2g0o.productlist.main.13.72657d805ZQhhW&algo_pvid=b7bbccc5-ca71-4637-a881-007dd8b1d828&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013330725010%7C_p_origin_prod%3A
+Calipers,3.260869565,12,https://ar.aliexpress.com/item/1005007497930475.html?spm=a2g0o.productlist.main.5.3b384addnppPpS&algo_pvid=b8ff14ed-6798-4ba4-9af2-d269b4e79211&pdp_ext_f=%7B%22order%22%3A%22638%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007497930475%7C_p_origin_prod%3A
+,,,
+PRICE ,200,736,
